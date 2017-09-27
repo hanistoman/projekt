@@ -3,7 +3,6 @@
 2. info
 
 Instalace Virtual Box
-
 Instalace Linuxu ve Virtual Boxu
 
 
