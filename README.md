@@ -2,7 +2,7 @@
 1. nainstalovat
 2. info
 
- # 1.1. Instalace Virtual Box #
+1.1. Instalace Virtual Box _
 1.2. Instalace Linuxu ve Virtual Boxu #
 1.3. Instalace+Konfigurace firewallu Radius #
     apt-get install freeradius #
