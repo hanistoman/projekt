@@ -2,9 +2,8 @@
 1. nainstalovat
 2. info
 
-Instalace Virtual Box
-
-Instalace Linuxu ve Virtual Boxu
+1.1 Instalace Virtual Box
+1.2 Instalace Linuxu ve Virtual Boxu
 
 
 
