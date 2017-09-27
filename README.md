@@ -2,8 +2,22 @@
 1. nainstalovat
 2. info
 
-1.1 Instalace Virtual Box
-1.2 Instalace Linuxu ve Virtual Boxu
+1.1. Instalace Virtual Box
+1.2. Instalace Linuxu ve Virtual Boxu
+
+1.3. Instalace+Konfigurace firewallu Radius
+    apt-get install freeradius
+    iptables -A INPUT -p tcp --dport 1812 -j ACCEPT
+    iptables -A INPUT -p tcp --dport 1813 -j ACCEPT
+    
+
+
+
+
+
+
+
+
 
 
 
