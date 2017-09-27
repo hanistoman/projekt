@@ -2,6 +2,17 @@
 1. nainstalovat
 2. info
 
+Instalace Virtual Box
+Instalace Linuxu ve Virtual Boxu
+
+
+
+
+
+
+
+
+
 
 RADIUS je AAA protokol používaný pro přístup k síti nebo pro IP mobilitu. Může pracovat jak lokálně tak i v roamingu.
 
